@@ -6,7 +6,7 @@
 name: VeneHsoftW
 
 # Short bio or description (displayed in the header)
-description: Programming Lenguagues, Data and Cloud
+description: Programming Languages, Data and Cloud
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -21,9 +21,9 @@ footer-links:
   email: administrador@venehsoft.com
   facebook: https://www.facebook.com/venehsoftw/
   flickr:
-  github: venehsoftw/jekyll-now
+  github: venehsoftw/
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/company/16198795/ 
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: venehsoftw
